@@ -24,6 +24,11 @@ Contains mods, code and research notes for Feed And Grow FIsh
  - Press the numbers `1` through `9` to spawn fish in groups of 1 to 9
  - Hold the number `0` to spawn fish one at a time as fast as the game will allow
 
+### Quick Start Guide Video
+
+[![OFFICIAL PREMIUM SPAWN HACK RELEASE | Feed and Grow Fish Modded](https://i.imgur.com/WIuHjEA.jpg)](https://youtu.be/UPIQ7WAA1gc "OFFICIAL PREMIUM SPAWN HACK RELEASE | Feed and Grow Fish Modded")
+[YouTube Tutorial](https://youtu.be/UPIQ7WAA1gc)
+
 ### How do I install this?
  - You will need an original copy of the game which is running `version 0.9.2` in order to patch your game
  - Download a copy of [QuickPar](http://www.quickpar.org.uk/Download.htm) and install it
@@ -109,7 +114,7 @@ Contains mods, code and research notes for Feed And Grow FIsh
  - `64` - `Megalograptus`
  - `65` - `Green Moray`
  - `66` - `Diava`
- - `67` - `Dreu Eel` - `kopie`
+ - `67` - `Dreu Eel - kopie`
  - `68` - `TomcoFish`
  - `69` - `Pike Old`
  - `70` - `Pike`
@@ -124,7 +129,7 @@ Contains mods, code and research notes for Feed And Grow FIsh
  - `79` - `Catfish`
  - `80` - `Blacktip shark`
  - `81` - `Sea Turtle`
- - `82` - `Catfish` - `kopie`
+ - `82` - `Catfish - kopie`
  - `83` - `Ghost shark`
  - `84` - `Beluga`
  - `85` - `Goliath`
@@ -145,7 +150,7 @@ Contains mods, code and research notes for Feed And Grow FIsh
  - `100` - `SpermWhale`
  - `101` - `Orca`
  - `102` - `Dunkleosteus`
- - `103` - `Browurag` - `skin`
+ - `103` - `Browurag - skin`
  - `104` - `Titanichthys`
  - `105` - `Great White`
  - `106` - `Prognathodon`
