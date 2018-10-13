@@ -40,3 +40,113 @@ Contains mods, code and research notes for Feed And Grow FIsh
  - The DLL will be patched and then QuickPar will say that the file is complete
  - Copy the patched DLL back into your `/Feed and Grow Fish/Feed and Grow_Data/Managed/` directory
  - Launch the game
+
+### What fish are playable?
+ - `0` - `CuttlefishBaby`
+ - `1` - `Nautilus`
+ - `2` - `Pirate Crab`
+ - `3` - `Piranha-Green`
+ - `4` - `Piranha-old`
+ - `5` - `Crayfish`
+ - `6` - `Clownfish`
+ - `7` - `Mamaka`
+ - `8` - `Mahi Mahi Baby`
+ - `9` - `Crab`
+ - `10` - `Colossal Crab`
+ - `11` - `Wachuma`
+ - `12` - `Jellyfish`
+ - `13` - `Penguin`
+ - `14` - `Green crab`
+ - `15` - `Octopus`
+ - `16` - `IchtyosaurusBaby`
+ - `17` - `PenguinBaby`
+ - `18` - `Evil king crab`
+ - `19` - `Evil crab`
+ - `20` - `Piranha`
+ - `21` - `Pinky`
+ - `22` - `Gold`
+ - `23` - `BabyOrca`
+ - `24` - `Baby Goliath`
+ - `25` - `Baby Browurag`
+ - `26` - `Trilobite`
+ - `27` - `Ubur`
+ - `28` - `Narwhal Baby`
+ - `29` - `AnglerfishBaby`
+ - `30` - `Squid`
+ - `31` - `Swamp Crab`
+ - `32` - `Baby Blacktip`
+ - `33` - `Baby Barracuda`
+ - `34` - `Baby`
+ - `35` - `Zombi`
+ - `36` - `Blu`
+ - `37` - `Vampire leech`
+ - `38` - `Pufferfish`
+ - `39` - `Raptor`
+ - `40` - `SeaTurtleBaby`
+ - `41` - `Bibos`
+ - `42` - `BelugaBaby`
+ - `43` - `Bibos-bone`
+ - `44` - `Bibos-Robot`
+ - `45` - `Mongo`
+ - `46` - `LanternFish`
+ - `47` - `Taisuke`
+ - `48` - `Trout`
+ - `49` - `Dory`
+ - `50` - `Butterfly`
+ - `51` - `Clown trigger`
+ - `52` - `Teotaca`
+ - `53` - `Coccosteus`
+ - `54` - `Mantis shrimp`
+ - `55` - `Barracuda`
+ - `56` - `Barracuda` - `kopie`
+ - `57` - `Norway redfish`
+ - `58` - `Zibra`
+ - `59` - `Salmon`
+ - `60` - `Knightia`
+ - `61` - `Nilin`
+ - `62` - `King Crab`
+ - `63` - `Tuna`
+ - `64` - `Megalograptus`
+ - `65` - `Green Moray`
+ - `66` - `Diava`
+ - `67` - `Dreu Eel` - `kopie`
+ - `68` - `TomcoFish`
+ - `69` - `Pike Old`
+ - `70` - `Pike`
+ - `71` - `Cuttlefish`
+ - `72` - `Aigialosaurus`
+ - `73` - `Klej`
+ - `74` - `Mahi Mahi`
+ - `75` - `Draith`
+ - `76` - `Angler fish`
+ - `77` - `Bonrex`
+ - `78` - `Leopard Seal`
+ - `79` - `Catfish`
+ - `80` - `Blacktip shark`
+ - `81` - `Sea Turtle`
+ - `82` - `Catfish` - `kopie`
+ - `83` - `Ghost shark`
+ - `84` - `Beluga`
+ - `85` - `Goliath`
+ - `86` - `Hammerhead`
+ - `87` - `Swordfish`
+ - `88` - `Snakehead`
+ - `89` - `Swamp lurker`
+ - `90` - `Narwhal`
+ - `91` - `Tiger shark`
+ - `92` - `Ichthyosaurus`
+ - `93` - `Xiphactinus`
+ - `94` - `Whale shark baby`
+ - `95` - `Whale shark`
+ - `96` - `Great White-OldSchool`
+ - `97` - `Mosasaurus`
+ - `98` - `Great white shark`
+ - `99` - `Kronosaurus`
+ - `100` - `SpermWhale`
+ - `101` - `Orca`
+ - `102` - `Dunkleosteus`
+ - `103` - `Browurag` - `skin`
+ - `104` - `Titanichthys`
+ - `105` - `Great White`
+ - `106` - `Prognathodon`
+ - `107` - `Megalodon`
