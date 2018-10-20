@@ -42,12 +42,12 @@ Contains mods, code and research notes for Feed And Grow FIsh
 ## 2018.10.20 Release Video
 
 [![FISH CANNON MOD RELEASE | Feed and Grow Fish Modded](https://i.imgur.com/1mgDHKP.jpg)](https://youtu.be/SVq3RLJPaoo "FISH CANNON MOD RELEASE | Feed and Grow Fish Modded")
-[YouTube Tutorial](https://youtu.be/SVq3RLJPaoo)
+[YouTube Tutorial - FISH CANNON MOD RELEASE | Feed and Grow Fish Modded](https://youtu.be/SVq3RLJPaoo)
 
 ## 2018.10.13 Release Video
 
 [![OFFICIAL PREMIUM SPAWN HACK RELEASE | Feed and Grow Fish Modded](https://i.imgur.com/WIuHjEA.jpg)](https://youtu.be/UPIQ7WAA1gc "OFFICIAL PREMIUM SPAWN HACK RELEASE | Feed and Grow Fish Modded")
-[YouTube Tutorial](https://youtu.be/UPIQ7WAA1gc)
+[YouTube Tutorial - OFFICIAL PREMIUM SPAWN HACK RELEASE | Feed and Grow Fish Modded](https://youtu.be/UPIQ7WAA1gc)
 
 ### How do I install this?
  - You will need an original copy of the game which is running `version 0.9.2` in order to patch your game
