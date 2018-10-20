@@ -41,7 +41,7 @@ Contains mods, code and research notes for Feed And Grow FIsh
 
 ## 2018.10.20 Release Video
 
-[![FISH CANNON MOD RELEASE | Feed and Grow Fish Modded](https://i.imgur.com/WIuHjEA.jpg)](https://youtu.be/SVq3RLJPaoo "FISH CANNON MOD RELEASE | Feed and Grow Fish Modded")
+[![FISH CANNON MOD RELEASE | Feed and Grow Fish Modded](https://i.imgur.com/1mgDHKP.jpg)](https://youtu.be/SVq3RLJPaoo "FISH CANNON MOD RELEASE | Feed and Grow Fish Modded")
 [YouTube Tutorial](https://youtu.be/SVq3RLJPaoo)
 
 ## 2018.10.13 Release Video
