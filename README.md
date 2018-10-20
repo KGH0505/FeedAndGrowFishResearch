@@ -3,9 +3,18 @@ Contains mods, code and research notes for Feed And Grow FIsh
 
 ### Brought to you by [YouTube.com/AzzaFortysix](https://youtube.com/AzzaFortysix)
 
+## Mod relaese 2018.20.20
+
+### New Features
+ - Unlimited breathing under water for fish such as penguins
+ - You can change the power at which fish are launched, to create a gun or cannon
+ - You can change the level each fish spawns at
+ - Fish now spawn facing the same direction as your camera in spectator mode, or your fish if you have one
+ - Fish now spawn in front of you instead of inside you if you are playing
+
 ## Mod release 2018.10.13
 
-### Features
+### New Features
  - Play as ANY fish on ANY map
  - Spawn any fish in the game
  - Unrestricted Camera (infinite zoom in and out, move camera through walls, don't clip on ocean roof)
@@ -15,6 +24,8 @@ Contains mods, code and research notes for Feed And Grow FIsh
  - Super fast level up
  - Instant death mod
 
+## General Info
+
 ### What are the buttons / hotkeys?
  - Hold `L` and press `U` to level your fish up
  - Hold `D` and `X` together to instantly die
@@ -23,8 +34,17 @@ Contains mods, code and research notes for Feed And Grow FIsh
    - The fish names can also be found in the spawn menu to the left of their names
  - Press the numbers `1` through `9` to spawn fish in groups of 1 to 9
  - Hold the number `0` to spawn fish one at a time as fast as the game will allow
+ - Press `;` and `'` to change the `power` that the spawned fish are launched at
+ - Press `,` and `.` to change the level the fish spawn at
 
 ### Quick Start Guide Video
+
+## 2018.10.20 Release Video
+
+[![FISH CANNON MOD RELEASE | Feed and Grow Fish Modded](https://i.imgur.com/WIuHjEA.jpg)](https://youtu.be/SVq3RLJPaoo "FISH CANNON MOD RELEASE | Feed and Grow Fish Modded")
+[YouTube Tutorial](https://youtu.be/SVq3RLJPaoo)
+
+## 2018.10.13 Release Video
 
 [![OFFICIAL PREMIUM SPAWN HACK RELEASE | Feed and Grow Fish Modded](https://i.imgur.com/WIuHjEA.jpg)](https://youtu.be/UPIQ7WAA1gc "OFFICIAL PREMIUM SPAWN HACK RELEASE | Feed and Grow Fish Modded")
 [YouTube Tutorial](https://youtu.be/UPIQ7WAA1gc)
@@ -34,7 +54,7 @@ Contains mods, code and research notes for Feed And Grow FIsh
  - Download a copy of [QuickPar](http://www.quickpar.org.uk/Download.htm) and install it
  - Come to the [releases section](https://github.com/ash47/FeedAndGrowFishResearch/releases)
  - Download the latest release
- - Extract the release files from the ZIP
+ - Extract the release files from the ZIP (Right click the ZIP and select `Extract All`)
  - Copy your `Assembly-CSharp.dll` into the release's folder
    - The DLL can be found in `Steam/Steamapps/Common/Feed And Grow Fish/Feed and Grow_Data/Managed/`
  - Open the `Assembly-CSharp.dll.par2` from the release
